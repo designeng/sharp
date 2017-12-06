@@ -7,6 +7,5 @@ test
 appveyor.yml
 circle.yml
 mkdocs.yml
-vendor
 preinstall.sh
 .nyc_output
